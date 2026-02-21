@@ -1,9 +1,17 @@
 // Toggle mobile menu
 const toggle = document.querySelector(".mobile-menu-toggle");
 const menu = document.querySelector(".mobile-menu-items");
+const icon = toggle.querySelector("i");
 
 toggle.addEventListener("click", () => {
+
+    // Toggle menu
     menu.classList.toggle("active");
+
+    // Change icon
+    icon.classList.toggle("fa-bars");
+    icon.classList.toggle("fa-xmark");
+
 });
 
 // Change navbar background on scroll

@@ -801,6 +801,10 @@ img {
         grid-template-columns: 1fr;
     }
 
+    .gallery-header h2{
+        font-size: 2rem;
+    }
+
     .scroll-down {
         display: none;
     }
@@ -808,6 +812,10 @@ img {
     .hero .sologan {
         font-size: 2.5rem;
 
+    }
+
+    .testimonial-title {
+        font-size: 2rem;
     }
 
     .contact-header h2 {
