@@ -1,4 +1,4 @@
-# 💍 Elegant Wedding Planner landing page
+# Elegant Wedding Planner landing page
 
 Elegant wedding planner webpage built using **HTML, CSS, and JavaScript**.  
 Designed with a luxury aesthetic, responsive layout, and interactive features.
